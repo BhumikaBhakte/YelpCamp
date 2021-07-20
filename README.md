@@ -56,7 +56,7 @@ To see the app in action, go to [https://yelp-camp2021bb.herokuapp.com/](https:/
 ### Clone or download this repository
 
 ```sh
-git clone https://github.com/lucasweng/yelp-camp.git
+git clone https://github.com/BhumikaBhakte/YelpCamp.git
 ```
 
 ### Install dependencies
